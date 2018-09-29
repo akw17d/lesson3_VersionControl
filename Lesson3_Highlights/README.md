@@ -5,16 +5,15 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+09,28,2018
 
 ## Student Name:  
-(First and Last Name)
+Arianna Wittig
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
-
+(In this assingment, we described 5 topics that we learned in lesson 3. We also included a 500X500 picture for every topic.
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Version Control Systems, also known as VCS, is used for software configuration management.
+2. The advantages of using VCS include managment and changing. Programmers can also collaborate with other programmers and share work with each other.s
+3. GitHub is a web based hosting device used for version control systems. Used mainly for computer coding.
 
